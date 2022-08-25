@@ -2,16 +2,12 @@
 General information for each semester about courses. Just because information is here does not mean it applies to your course.
 - [Preparing to Take one of my Courses](#1-preparing-to-take-this-course)
 - [Common Instructions for All Courses](#Common Instructions for all Courses)
-    - [1.2.1. For all courses, please install the following](#121-for-all-courses-please-install-the-following)
-  - [1.3. CPE-390 (Microprocessor Systems - Computer Architecture)](#13-cpe-390-microprocessor-systems---computer-architecture)
-  - [1.4. CPE-593 (Applied Data Structures and Algorithms)](#14-cpe-593-applied-data-structures-and-algorithms)
-  - [1.5. CPE-553 (C++)](#15-cpe-553-c)
-    - [1.5.1. IDE Installation](#151-ide-installation)
-      - [1.5.1.1. CLion](#1511-clion)
-      - [1.5.1.2. Visual Studio](#1512-visual-studio)
-    - [1.5.2. Non-IDE](#152-non-ide)
-      - [1.5.2.1. MSYS2 with g++/gdb](#1521-msys2-with-ggdb)
-  - [1.6. EE-552 (Java)](#16-ee-552-java)
+- Specific Courses
+  - [CPE-593 (Applied Data Structures and Algorithms)](#14-cpe-593-applied-data-structures-and-algorithms)
+  - [EE-553 (C++)](#ee-553-cpp)
+  - [CPE-552 (Java)](#cpe-552-java)
+  - [OLD: CPE-390 (Microprocessor Systems - Computer Architecture)](#13-cpe-390-microprocessor-systems---computer-architecture)
+  - [. MSYS2 with g++/gdb](#1521-msys2-with-ggdb)
   - [1.7. Bibliography](#17-bibliography)
 
 
@@ -22,7 +18,7 @@ General information for each semester about courses. Just because information is
 If you are preparing to take one of the courses I teach, then I applaud you for getting here, hopefully before the semester starts. This document will outline the necessary tools you will need to be successful in these courses.
 
 [The base directory for all my courses is called DovKrugerAllCourses.](https://drive.google.com/open?id=0Bwxfq4Y7f7vkeHB2emExaThFUlE)
-[My FAQ describes some of the subdirectories of DovKrugerAllCourses](https://docs.google.com/document/d/1YJWXBWw9lo2KLz1e7CejZ9c99dEqMGSoovu3GMmG07Y/edit?usp=sharing)
+[My Course FAQ](FAQ.md)
 [Please sign up for my discord server](https://discord.gg/8EDCBeb2)
 [Work study students, and graduate students who need work](#Work)
 [Volunteers]
@@ -32,7 +28,6 @@ Depending on what funding I can get for workers, extra help may be available
 Help will be available in the Graduate Student Support Center for all courses listed here.
 
 ## Common Setup: For all courses, please install the following
-
 Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class. Please install vscode [following these instructions](Installing_VSCode.md) on your laptop and bring it to class so you can participate interactively. vscode works on Windows, Mac OSX and Linux.
 
 Git ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
