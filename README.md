@@ -1,4 +1,5 @@
 # Dov Kruger Courses
+
 General information for each semester about courses. Just because information is here does not mean it applies to your course.
 - [Preparing to Take one of my Courses](#1-preparing-to-take-this-course)
 - [Common Instructions for All Courses](#Common Instructions for all Courses)
@@ -11,9 +12,9 @@ General information for each semester about courses. Just because information is
   - [1.7. Bibliography](#17-bibliography)
 
 
-#[Preparing to Take one of my courses]
+##[Preparing to Take one of my courses]
 
-#[Common Instructions for All Courses]
+##[Common Instructions for All Courses]
 
 If you are preparing to take one of the courses I teach, then I applaud you for getting here, hopefully before the semester starts. This document will outline the necessary tools you will need to be successful in these courses.
 
@@ -27,10 +28,12 @@ If I cannot hire you due to lack of funds, you can still help your fellow studen
 Depending on what funding I can get for workers, extra help may be available
 Help will be available in the Graduate Student Support Center for all courses listed here.
 
+
 ## Common Setup: For all courses, please install the following
+
 Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class. Please install vscode [following these instructions](Installing_VSCode.md) on your laptop and bring it to class so you can participate interactively. vscode works on Windows, Mac OSX and Linux.
 
-If you don't know Linux, and need to use command line for your particular course or application, check out our new resource [developed by Richie Cahill and me](https://github.com/LinuxCrashCourse). 
+If you don't know Linux, and need to use command line for your particular course or application, check out our new resource [developed by Richie Cahill and me](https://www.LinuxCrashCourse.com). 
 
 Git ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
 
