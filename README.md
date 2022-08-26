@@ -30,6 +30,8 @@ Help will be available in the Graduate Student Support Center for all courses li
 ## Common Setup: For all courses, please install the following
 Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class. Please install vscode [following these instructions](Installing_VSCode.md) on your laptop and bring it to class so you can participate interactively. vscode works on Windows, Mac OSX and Linux.
 
+If you don't know Linux, and need to use command line for your particular course or application, check out our new resource [developed by Richie Cahill and me](https://github.com/LinuxCrashCourse). 
+
 Git ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
 
 [Help using git](https://docs.google.com/document/d/1WOJqA5Vdo9QbeYMGn8pN1B8Uo8-1EnfZAMCAdkDKjFk/edit?usp=sharing)
