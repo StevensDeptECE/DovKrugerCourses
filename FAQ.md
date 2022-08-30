@@ -1,22 +1,23 @@
 # FAQ For Dov Kruger’s Courses
+
 This FAQ is designed to answer the repetitive questions I get about my courses, and to give instructions for students about to start.
 
 If the links below are broken, DO NOT request access. It will not be granted. Instead show me where the bad link is so I can fix it. I cannot share with you, and then with hundreds more individually.
 
 Link to the top level directory [DovKrugerAllCourses](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkeHB2emExaThFUlE?resourcekey=0-vc7jfyiAfUHaAAc1ZPX5rw&usp=sharing)
 
-[CPE-593 Applied Data Structures and Algorithms] (https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkfi1YOVduRS1jQzZzZHdqVUJRQnB6U1JLUHRuS0xCUlU4Um10aDIxX1RPbGs?resourcekey=0-RwqHdOicOtruA784wejShA&usp=sharing)
+[CPE-593 Applied Data Structures and Algorithms](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkfi1YOVduRS1jQzZzZHdqVUJRQnB6U1JLUHRuS0xCUlU4Um10aDIxX1RPbGs?resourcekey=0-RwqHdOicOtruA784wejShA&usp=sharing)
 
-[EE-553 (C++)] (https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkflAwaFYyWVBwRnpxdWZxZFlla1U4eWZSelVybm44emtMaDJaNTQxS3o5X3M?resourcekey=0-k8TWyZv0MOzYzJLbI4-hnQ&usp=sharing)
+[EE-553 (C++)](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkflAwaFYyWVBwRnpxdWZxZFlla1U4eWZSelVybm44emtMaDJaNTQxS3o5X3M?resourcekey=0-k8TWyZv0MOzYzJLbI4-hnQ&usp=sharing)
 
-[CPE-552 (Java)] (https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkWDBhRms0eVRFTGs?resourcekey=0-VJO_CrC-I1h300ASvlJsqA&usp=sharing)
+[CPE-552 (Java)](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkWDBhRms0eVRFTGs?resourcekey=0-VJO_CrC-I1h300ASvlJsqA&usp=sharing)
 
 Old course [CPE-390,  Microprocessor systems](https://drive.google.com/drive/folders/1BB0dEj9IYmisXunfRFdGb4XWcH4RIJ6s?usp=sharing)
 
 [All my course syllabi](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkeXRQWk91YVF3MkE?resourcekey=0-PyWvn62RTq4drIitu7KrEg&usp=sharing)
 I do not have course syllabi from 10 years ago, sorry. Current only.
 
-[Job placement and resume help] (https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkYnVOelNLYzdKc28?resourcekey=0-LB6C0rp-cWKM8C-DMtNTUA&usp=sharing)
+[Job placement and resume help](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkYnVOelNLYzdKc28?resourcekey=0-LB6C0rp-cWKM8C-DMtNTUA&usp=sharing)
 
 [Setup Software for my courses](README.md)
 
@@ -25,7 +26,7 @@ On the first day we will go over the rules, but all the rules are in the syllabi
 I will also edit the calendar for this semester which is a spreadsheet. It may not be ready the first day. I am not willing to re-enter the same data multiple times as canvas is very clumsy that way, so no, the calendar in Canvas is NOT USED.
 
 Q: Where are all the course examples from class?
-A: All of my courses use github to disseminate programming examples. In some classes you may be asked to clone a repository and hand in your homework in github. You can read how to use github in the following tutorial: https://drive.google.com/open?id=1kSknsnRPqe1-DSIx-r9alMr1drEHzgzzXxqCkdlnHGk
+A: All of my courses use github to disseminate programming examples. In some classes you may be asked to clone a repository and hand in your homework in github. You can read how to use github in the following tutorial: <https://drive.google.com/open?id=1kSknsnRPqe1-DSIx-r9alMr1drEHzgzzXxqCkdlnHGk>
 
 Q: You use a lot of linux tools in your courses. How do I learn that stuff?
 A: See [LinuxCrashCourse](https://github.com/LinuxCrashCourse)
@@ -35,7 +36,7 @@ A: There are no prerequisites for C++ or Java, but the class goes FAST.  To redu
 
 Q: I want to take data structures but don’t know much programming. May I?
 A: For CPE593 Data structures, you must know either C++ or Java well.  If you do not, take a course in C++ or Java so you are prepared. You have been warned.
-If you have doubts of whether you can handle the class, look at the syllabus in the courseinfo directory: 
+If you have doubts of whether you can handle the class, look at the syllabus in the courseinfo directory:
 
 Q: How do I know if I know C++ or Java well enough to take the data structures class?
 A: Take the [self-assessment](selfassess.md). If you pass, you know it well enough.
@@ -44,7 +45,7 @@ Q: How do I prepare?
 A: You should try to have whatever software is specified for your class installed before class starts. If you cannot do it, help will be available once the course starts but earlier is better. Instructions for software installation is in the [Readme](README.md)
 
 Q: What are your classes like?
-A: If you want to see, you can view some of my course videos (Java, C++, Data Structures) 
+A: If you want to see, you can view some of my course videos (Java, C++, Data Structures)
 By watching the videos and trying to do some homework, you can tell if the course will be too difficult for you before you take it.  Note that if you are “not sure” if you are good enough in C++ and Java to take data structures, you should definitely check first.  We have CPE552 and EE553 for just that reason.
 
 Q: If I do badly in a quiz or test can I have a retest?
@@ -55,14 +56,14 @@ A: Most people who do badly on the tests are not capable of doing a project in t
 
 For C++ and Java, I have quick reference guides which offer very brief descriptions of each technical topic (usually one page).  That’s under reference.  There are also open source or released books under reference/books.
 
-The current directory: https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkeHB2emExaThFUlE?usp=sharing
+The current directory: <https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkeHB2emExaThFUlE?usp=sharing>
 
 contains all my course information.  If you want the syllabus, look in courseinfo.  The rules for all my courses are the same, located in Generic Syllabus.  For the specific topics in each course, look at the syllabus for the course.
 
 For the code in each class, see github:
-https://github.com/stevensdeptece/CPE553-CPP
-https://github.com/stevensdeptece/EE552-Java
-https://github.com/stevensdeptece/CPE593
+<https://github.com/stevensdeptece/CPE553-CPP>
+<https://github.com/stevensdeptece/EE552-Java>
+<https://github.com/stevensdeptece/CPE593>
 
 There are also corresponding homework repositories for each course, but that will come in class.
 
@@ -76,4 +77,3 @@ Thursday 10-12 B212
 Saturday 1-4pm library 3rd floor (in the undergraduate student support center)
 There are peer mentors who can help you with homework, help you set up new programming environments on your computer if you get stuck.
 I am willing to meet with you and help as well, particularly if you have an issue that goes beyond what the peer mentors can help you with but given the volume of students I ask that you demonstrate that you have tried to get help with the graduate student support center first.
-

@@ -7,16 +7,18 @@ The following assessment will tell you whether you have the necessary skills. If
 
 You should not have to ask if it is correct. You can test with a smaller number if necessary. For example:
 1+3+5 = 9, so you can test with 5 instead of 51.
-  ```
+
+  ```c
   int sum = 0;
   for (int i = 0; i < 51; i++)
     if (i % 2 == 0)
       sum = i;
   cout << sum; // or in Java System.out.println(sum);
-  ```   
+  ```
 
 1. The following code crashes. Explain why.
-  ```
+
+  ```c
   int main() {
     int a[100];
     for (int i = 0; i < 10000; i++)
@@ -24,7 +26,7 @@ You should not have to ask if it is correct. You can test with a smaller number 
   }
   ```
 
-  ```
+  ```java
   public class JavaArrayTest {
     public static void main(String[] args) {
       int[] a = new int[100];
@@ -34,10 +36,10 @@ You should not have to ask if it is correct. You can test with a smaller number 
   }
   ```
 
-
 1. Write a list class holding integers implementing the following
   C++
-  ```
+
+  ```c
     class MyList {
     private:
       int* data;         // pointer to a block of memory holding the data
@@ -58,15 +60,16 @@ You should not have to ask if it is correct. You can test with a smaller number 
     }
   ```
 
-    Java
+Java
 
-    ```
-    public class TestIntList {
-      public static void main(String[] args) {
-        TestIntList a = new TestIntList(); // create an empty list with capacity 1
-        TestIntList b = new TestIntList(100); // create an empty list with capacity 100
-        for (int i = 0; i < 10; i++)
-          b.addEnd(i);
-        System.out.println(b); // should print 0 1 2 3 4 5 6 7 8 9
-      }
-    }
+```java
+public class TestIntList {
+  public static void main(String[] args) {
+    TestIntList a = new TestIntList(); // create an empty list with capacity 1
+    TestIntList b = new TestIntList(100); // create an empty list with capacity 100
+    for (int i = 0; i < 10; i++)
+      b.addEnd(i);
+    System.out.println(b); // should print 0 1 2 3 4 5 6 7 8 9
+  }
+}
+```
