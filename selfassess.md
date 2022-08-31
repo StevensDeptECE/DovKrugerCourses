@@ -6,7 +6,7 @@ If you are not comfortable with this level of programming, please take C++ or Ja
 
 1. The following code should compute the sum 1 + 3 + ... + 51 but it is wrong. Fix the loop so it works, then rewrite it without an if statement so it is faster.
 
-You should not have to ask if it is correct. You can test with a smaller number if necessary. For example:
+You should not have to ask if your answer is correct. You can test with a smaller number if necessary. For example:
 1+3+5 = 9, so you can test with 5 instead of 51.
 
   ```c
