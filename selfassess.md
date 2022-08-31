@@ -16,7 +16,7 @@ You should not have to ask if it is correct. You can test with a smaller number 
   cout << sum; // or in Java System.out.println(sum);
   ```
 
-1. The following code crashes. Explain why.
+2. The following code crashes. Explain why.
 
   ```c
   int main() {
@@ -36,7 +36,7 @@ You should not have to ask if it is correct. You can test with a smaller number 
   }
   ```
 
-1. Write a list class holding integers implementing the following
+3. Write a list class holding integers implementing the following
   C++
 
   ```c
