@@ -1,7 +1,8 @@
 # Self Assessment of Programming Skills for CPE-593 Applied Data Structures and Algorithms
 
 For this course you must be able to write C++ or Java code, and debug code if it does not work.
-The following assessment will tell you whether you have the necessary skills. If not, please take C++ or Java before attempting CPE-593.
+Each question contains code in both C++ and Java. Pick the language you know and attempt to solve.
+If you are not comfortable with this level of programming, please take C++ or Java before attempting CPE-593.
 
 1. The following code should compute the sum 1 + 3 + ... + 51 but it is wrong. Fix the loop so it works, then rewrite it without an if statement so it is faster.
 
