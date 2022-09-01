@@ -66,7 +66,7 @@ Please have your VS Code set up before the first class as follows:
     5. Select the newly added host. Note that you can change the order in which they appear by reordering the SSH Config file.
     6. Unfortunately, extensions are installed to the host of the vscode server, meaning that you’ll need to install a good number of the extensions again, but this time, on the server. Open the bat/sh file from before and copy paste the IDs one by one into the extension search bar and install on server. Some may not need to be installed on the server as they work from your machine.
 
-    ![1.png](res/Instructions%20for%20Installing%20VSCode/1.png)
+    ![1.png](res/vscodeinstructions/1.png)
 
 12. If you are working on large projects or on Grail, you need the following configuration... Go back to step 6 and replace the launch files with the below folder corresponding to your OS. Also repeat step 8 with the correct task file. Essentially what they do is run `make -B` in the root directory, which will trigger a Makefile you create and configure. From there, it will run `a.exe` or `a.out` (depending on your OS) in the debugger. It might be set to stop on entry (i.e. act as if the first line of main has a breakpoint). To avoid debugging, just hit the continue button and it will finish running. The output of your program is not in the debugger, but rather in the terminal tab of the lower-window. You will need to edit these files if not using Windows with the default MSYS2 installation path, or if your executables are not being generated in the root directory as `a.exe` or `a.out` (depending on your OS) (OR IF YOU ARE WORKING ON GRAIL).
 

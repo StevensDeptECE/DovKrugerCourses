@@ -1,108 +1,121 @@
 # Dov Kruger Courses
+## About this document
 
-<<<<<<< HEAD
 Hello and welcome to my shared course resource site
 
-Thes pages contain general information for each semester about all my courses. Just because information is here does not mean it applies to your course.
+These pages contain general information for each semester about all my courses.
+Just because information is here does not mean it applies to your course.
 
-This document is a work in progress, designed to help you get software tools you need to learn programming. In the end, you are responsible to learn how to install tools on your own computer. If you want to help by correcting mistakes you find, you can recommend corrections. Help is appreciated and will be awarded some extra credit.
+This document is a work in progress, designed to help you get software tools you need to learn programming.
+In the end, you are responsible to learn how to install tools on your own computer. If you want to help by correcting
+mistakes you find, you can recommend corrections. Help is appreciated and will be awarded some extra credit.
 
-
-## General Background
-
-
-## [Preparing to Take one of my Courses](#1-preparing-to-take-this-course)
 - [Dov Kruger Courses](#dov-kruger-courses)
+  - [About this document](#about-this-document)
   - [General Background](#general-background)
   - [Preparing to Take one of my Courses](#preparing-to-take-one-of-my-courses)
-  - [[Preparing to Take one of my courses]](#preparing-to-take-one-of-my-courses-1)
   - [[Common Instructions for All Courses]](#common-instructions-for-all-courses)
   - [Common Setup: For all courses, please install the following](#common-setup-for-all-courses-please-install-the-following)
-  - [For Using C++ in a Course](#for-using-c-in-a-course)
+    - [For Using C++ in a Course](#for-using-c-in-a-course)
+    - [For Using Java in a Course](#for-using-java-in-a-course)
+    - [Setup Git](#setup-git)
   - [CPE-593 (Applied Data Structures and Algorithms)](#cpe-593-applied-data-structures-and-algorithms)
   - [CPE-553 (C++)](#cpe-553-c)
     - [Using an Online Compiler](#using-an-online-compiler)
     - [IDE Installation](#ide-installation)
       - [CLion](#clion)
       - [Visual Studio](#visual-studio)
-    - [1.5.2. Non-IDE](#152-non-ide)
-      - [1.5.2.1. MSYS2 with g++/gdb](#1521-msys2-with-ggdb)
-  - [1.6. EE-552 (Java)](#16-ee-552-java)
-  - [1.3. CPE-390 (Microprocessor Systems - Computer Architecture)](#13-cpe-390-microprocessor-systems---computer-architecture)
-  - [1.7. Bibliography](#17-bibliography)
+    - [Non-IDE](#non-ide)
+  - [EE-552 (Java)](#ee-552-java)
+  - [CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
+  - [Work](#work)
+  - [Volunteers](#volunteers)
+  - [Bibliography](#bibliography)
+
+  - [Common Setup: For all courses, please install the following](#common-setup-for-all-courses-please-install-the-following)
+  - [For Using C++ in a Course](#for-using-c-in-a-course)
+    - Windows Options
+      - MSYS2 with g++/gdb](#msys2-with-ggdb)
+      - WSL (not covered yet, but you can do everything in MSYS2 and more)
+    - Mac OSX (for now, you are on your own... Extra credit for student who wants to create this guide!)
+    - [Linux](#linux-install-c-tools)
+    - [IDE Installation](#ide-installation)
+      - [CLion](#clion)
+      - [Visual Studio](#visual-studio)
+    - [Non-IDE](#non-ide)
+
+  - [For Using Java in a Course](#for-using-java-in-a-course)
+    - [IDE Installation](#java-ide-installation)
+      - [CLion](#clion)
+      - [Visual Studio](#visual-studio)
+  - 
+  - [CPE-593 (Applied Data Structures and Algorithms)](#cpe-593-applied-data-structures-and-algorithms)
+    - Follow the instructions for installing either C++ or Java tools in the appropriate section above
+  - CPE-553 (C++)  see using C++ in a course
+  - EE-552 (Java) see using Java in a course
+  - [OLD CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
+  - [Bibliography](bibliography)
 
 
-## [Preparing to Take one of my courses]
+## General Background
+
+
+## [Preparing to Take one of my Courses](#preparing-to-take-this-course)
 
 ## [Common Instructions for All Courses]
-=======
-General information for each semester about courses. Just because information is here does not mean it applies to your course.
-- [Preparing to Take one of my Courses](#1-preparing-to-take-this-course)
-- [Common Instructions for All Courses](#Common Instructions for all Courses)
-- Specific Courses
-  - [CPE-593 (Applied Data Structures and Algorithms)](#14-cpe-593-applied-data-structures-and-algorithms)
-  - [EE-553 (C++)](#ee-553-cpp)
-  - [CPE-552 (Java)](#cpe-552-java)
-  - [OLD: CPE-390 (Microprocessor Systems - Computer Architecture)](#13-cpe-390-microprocessor-systems---computer-architecture)
-  - [. MSYS2 with g++/gdb](#1521-msys2-with-ggdb)
-  - [1.7. Bibliography](#17-bibliography)
 
+If you are preparing to take one of the courses I teach, then I applaud you for getting here,
+hopefully before the semester starts. This document will outline the necessary tools you will need to be successful in these courses.
 
-##[Preparing to Take one of my courses]
+[The base directory for all my courses in google docs is called DovKrugerAllCourses.](https://drive.google.com/open?id=0Bwxfq4Y7f7vkeHB2emExaThFUlE)
+There may be files which are incorrect here since this git repo is new. The files in the google docs will be correctly formatted and can be used until this directory is perfect.
 
-##[Common Instructions for All Courses]
->>>>>>> f06a2f501bc91ed0edce1be8ed10ad942fb6730e
-
-If you are preparing to take one of the courses I teach, then I applaud you for getting here, hopefully before the semester starts. This document will outline the necessary tools you will need to be successful in these courses.
-
-[The base directory for all my courses is called DovKrugerAllCourses.](https://drive.google.com/open?id=0Bwxfq4Y7f7vkeHB2emExaThFUlE)
 [My Course FAQ](FAQ.md)
+
 [Please sign up for my discord server](https://discord.gg/8EDCBeb2)
-[Work study students, and graduate students who need work](#Work)
-[Volunteers]
-If I cannot hire you due to lack of funds, you can still help your fellow students
-[If you need help]
-Depending on what funding I can get for workers, extra help may be available
-Help will be available in the Graduate Student Support Center for all courses listed here.
+
+[Work study students, and graduate students who need work](#work)
+
+[Volunteers](#volunteers)
 
 
 ## Common Setup: For all courses, please install the following
 
-<<<<<<< HEAD
-  - [Microsoft VSCode](#vscode)
-  - [Git](#git)
-  - [Discord](#discord)
+  - [Install Microsoft VSCode](#installing-vscode)
+  - [Install Discord](installing_discord.md)
+  - [Setup Git](#setupgit)
 
-## For Using C++ in a Course
+
+### For Using C++ in a Course
 
   - If you use Windows, install either msys2 or WSL
-    - [Install msys2 and git inside](#msys2)
-    - [Install WSL and git inside](#WSL)
-  - If you use Mac OSX, we don't have instructions for you
+    - [Install msys2 and git inside](installing_msys2.md)
+  - If you use Mac OSX, we don't have our own instructions for you
     - [Instructions for installing git](https://www.atlassian.com/git/tutorials/install-git)
     - [Instruction for installing c++ compiler](https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_osx-setup.php)
-
-Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class. Please install vscode [following these instructions](Installing_VSCode.md) on your laptop and bring it to class so you can participate interactively. vscode works on Windows, Mac OSX and Linux.
-
-If you are using c++ and need a command line under Linux, you will use either msys2 or Windows Subsystem for Linux (WSL). In such cases see instructions for those below. If you are using Java then you can use a standalone git.
-
-[. MSYS2 with g++/gdb](#1521-msys2-with-ggdb)
   
-=======
-Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class. Please install vscode [following these instructions](Installing_VSCode.md) on your laptop and bring it to class so you can participate interactively. vscode works on Windows, Mac OSX and Linux.
+  
+If you are not installing MSYS2 on windows, you will need to install git on windows
 
-If you don't know Linux, and need to use command line for your particular course or application, check out our new resource [developed by Richie Cahill and me](https://www.LinuxCrashCourse.com). 
->>>>>>> f06a2f501bc91ed0edce1be8ed10ad942fb6730e
 
-Git ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
+### For Using Java in a Course
 
-[Help using git](https://docs.google.com/document/d/1WOJqA5Vdo9QbeYMGn8pN1B8Uo8-1EnfZAMCAdkDKjFk/edit?usp=sharing)
+People using Java under windows may not need to install msys2, but you will need an IDE, the Java compiler, and git.
+
+Installing Git on windows ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
+
+
+### Setup Git
+
+Git will require you to generate an ssh key in your home directory. Where that is depends on your environment
+(Windows, MSYS2, Mac/Linux)
+
+[Git instructions step by step](https://docs.google.com/document/d/1WOJqA5Vdo9QbeYMGn8pN1B8Uo8-1EnfZAMCAdkDKjFk/edit?usp=sharing)
 If you want to really learn git you can also read the manual, but that's a real book (350 pages).
 [Git manual](https://git-scm.com/docs/user-manual)
 
 You will also need a Github account. Github is a website that offers online hosting of git repositories. All my class examples are hosted on git, and in some cases you will be asked to submit larger homeworks using git. In any case as a programmer, this is something everyone should know. [Link to get an educational GitHub account (free features)](https://education.github.com/)
 
-[Install discord](https://discord.com/download)
 
 ## CPE-593 (Applied Data Structures and Algorithms)
 
@@ -149,50 +162,10 @@ You will see me use some of these tools in class. **If you want to get a job pro
  - The best portable environment I know.  You will have to get a free license updated every year while a student
 #### [Visual Studio](https://visualstudio.microsoft.com/)
  - You may use Visual Studio for your own purposes, but if you do not compile with g++ or clang, your code might be non-standard. If you do not submit code that compiles under g++, you will get a 25% for that assignment.
-### 1.5.2. Non-IDE
+### Non-IDE
 
-If you are on Windows 10, the easiest thing is to [install Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10), a full Ubuntu under windows. It doesn’t do graphics, but for any text programs it’s great and a full linux environment, a great learning opportunity.
 
-For building graphical linux programs under windows, using C++ you can use [**MSYS2**](https://www.msys2.org/). This is what I use to build OpenGL programs like my Grail project that work on both Linux and Windows (and eventually Mac OS X).
-
-There are a number of choices including **MinGW** (Minimal Gnu For Windows), **Cygwin** (a Unix-like environment running under windows).
-
-#### 1.5.2.1. MSYS2 with g++/gdb
-
-Once you have MSYS2, you will have to install all the tools for it. Assuming you have a 64 bit windows:
-
-`pacman -Ss gcc | grep mingw64`
-
-This will tell you what packages exist for the 64 bit version which contain gcc.
-
-Install packages gcc, gdb, cmake, and make through the following commands:
-
-```bash
-pacman -S mingw-w64-x86_64-gcc
-pacman -S mingw-w64-x86_64-gdb
-pacman -S mingw-w64-x86_64-cmake
-pacman -S mingw-w64-x86_64-make
-```
-
-All these programs will then be installed under your MSYS2 installation.  For most people, this is installed in C:\msys64 meaning that all the tools will be installed in `C:\msys64\mingw64\bin` or `C:\msys64\usr\bin`.
-
-To configure CLion to use MSYS2
-
-You will have to add these to settings. Click `File`>>`Settings`>>`build`
-
-![1.png](res/Preparing%20to%20Take%20this%20Course/1.png)
-
-![2.png](res/Preparing%20to%20Take%20this%20Course/2.png)
-
-It would be a good idea to also install [Qt](http://www.qt.io/download/). Qt contains g++ and a debugger.  It also contains a nice portable library commonly used for graphics, but if you want to make a commercial product you must pay them.  If you want, you may install Cygwin, but that is more complicated so I am not going to cover it here.
-
-Make sure that you can create a zip file for some homeworks that may require multiple files ***.rar files are not acceptable***.  On Windows you can get [7zip](http://www.7-zip.org/).
-
-You may use Visual Studio or Xcode, but if you do you must make sure your code will work on our system (g++ 4.9 under Linux) when submitted.  If your code does not work you get 25%, although you may resubmit.
-
-Please take the pretest as soon as the course opens.  This is just to collect data on how much you knew going into the course.  There are no prerequisites, you do not have to know how to program to take it (but it is obviously easier if you do).
-
-## 1.6. EE-552 (Java)
+## EE-552 (Java)
 
 Please install:
 
@@ -207,7 +180,7 @@ Later in the course it is possible we might do some web programming using JSP/se
 
 
 
-## 1.3. CPE-390 (Microprocessor Systems - Computer Architecture)
+## CPE-390 (Microprocessor Systems - Computer Architecture)
 
 **_You will need a Raspberry Pi, power supply, and microSD card for this course._
 Please be aware if you buy a microSD card you need to install Raspbian on it. So you should have access to a card reader/writer and an adapter that will allow you to read and write data to the card from your computer. Or you can just buy Raspbian on a card (not recommended).**
@@ -235,15 +208,6 @@ You may bring in your Raspberry Pi to B123 and use it in our lab. We have keyboa
 
 Having an IDE is not that important, because Raspberry Pi does not have great support for IDEs. Therefore, **it is highly recommended** to learn to use a text editor such as VI, Emacs, or nano. I am willing to conduct extra sessions to get people up to speed in these. Of course, you are welcome to use your own preferred editor, but please do not expect any support.  Instructions on how to install these will be provided in class.
 
-## 1.7. Bibliography
-
-[For C++, there is a free textbook, but if you want to buy one I recommend Lippman, 5e](http://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_2?ie=UTF8&qid=1451008292&sr=8-2&keywords=lippman%2C+5e)
-
-[For Java, there is a free textbook, but if you want to buy one I recommend R. Daniel Liang](http://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_fkmr0_1?ie=UTF8&qid=1451008341&sr=8-1-fkmr0&keywords=r+daniel+liang)
-
-[For Data structures, the textbook is Cormen, Leiserson, Rivest and Stein:](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1452860977&sr=8-1&keywords=cormen+leiserson+rivest+and+stein+introduction+to+algorithms+3rd+edition)
-
-
 
 - EE553 (C++)
     - You are required to use either g++ or clang++, Microsoft Visual Studio is not standard, and will not always generate code that will compile.
@@ -254,7 +218,7 @@ Having an IDE is not that important, because Raspberry Pi does not have great su
     - Special case: if you apply in person you may implement the homework in rust but you will have to show me and demonstrate each homework in person each time.
   - Linux Resources
 
-##[Work]
+## Work
 
 Many new students in my courses need help with:
  - installing programming tools
@@ -268,3 +232,18 @@ Many new students in my courses need help with:
 
 In short, there are many skills programmers need, not all taught in my classes (not enough time)
 I usually have permission to hire some top students as peer mentors. If you know some of the above topics and want to help, feel free to contact me.
+
+## Volunteers
+
+If I cannot hire you due to lack of funds, you can still help your fellow students
+[If you need help]
+Depending on what funding I can get for workers, extra help may be available
+Help will be available in the Graduate Student Support Center for all courses listed here.
+
+## Bibliography
+
+[For C++, there is a free textbook, but if you want to buy one I recommend Lippman, 5e](http://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_2?ie=UTF8&qid=1451008292&sr=8-2&keywords=lippman%2C+5e)
+
+[For Java, there is a free textbook, but if you want to buy one I recommend R. Daniel Liang](http://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312/ref=sr_1_fkmr0_1?ie=UTF8&qid=1451008341&sr=8-1-fkmr0&keywords=r+daniel+liang)
+
+[For Data structures, the textbook is Cormen, Leiserson, Rivest and Stein:](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1452860977&sr=8-1&keywords=cormen+leiserson+rivest+and+stein+introduction+to+algorithms+3rd+edition)
