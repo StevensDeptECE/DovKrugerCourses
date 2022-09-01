@@ -6,36 +6,36 @@ If you are not comfortable with this level of programming, please take C++ or Ja
 
 1. The following code should compute the sum 1 + 3 + ... + 51 but it is wrong. Fix the loop so it works, then rewrite it without an if statement so it is faster.
 
-You should not have to ask if your answer is correct. You can test with a smaller number if necessary. For example:
-1+3+5 = 9, so you can test with 5 instead of 51.
+    You should not have to ask if your answer is correct. You can test with a smaller number if necessary. For example:
+    1+3+5 = 9, so you can test with 5 instead of 51.
 
-  ```c
-  int sum = 0;
-  for (int i = 0; i < 51; i++)
-    if (i % 2 == 0)
-      sum = i;
-  cout << sum; // or in Java System.out.println(sum);
-  ```
+      ```c
+      int sum = 0;
+      for (int i = 0; i < 51; i++)
+        if (i % 2 == 0)
+          sum = i;
+      cout << sum; // or in Java System.out.println(sum);
+      ```
 
 2. The following code crashes. Explain why.
 
-  ```c
-  int main() {
-    int a[100];
-    for (int i = 0; i < 10000; i++)
-      cout << a[i] << '\n';
-  }
-  ```
-
-  ```java
-  public class JavaArrayTest {
-    public static void main(String[] args) {
-      int[] a = new int[100];
+    ```c
+    int main() {
+      int a[100];
       for (int i = 0; i < 10000; i++)
-        System.out.println(a[i]);
+        cout << a[i] << '\n';
     }
-  }
-  ```
+    ```
+  
+    ```java
+    public class JavaArrayTest {
+      public static void main(String[] args) {
+        int[] a = new int[100];
+        for (int i = 0; i < 10000; i++)
+          System.out.println(a[i]);
+      }
+    }
+    ```
 
 3. Write a list class holding integers implementing the following
   C++
