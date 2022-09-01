@@ -10,6 +10,10 @@ This document is a work in progress, designed to help you get software tools you
 In the end, you are responsible to learn how to install tools on your own computer. If you want to help by correcting
 mistakes you find, you can recommend corrections. Help is appreciated and will be awarded some extra credit.
 
+If you have difficulty installing the tools for your course, or if a page is broken, please notify your TA or grader. They will contact me. For classes in which there is no grader, contact me with a specific location where a link is broken, or an explanation that you do not understand. It may be easiest to get on discord and show me the problem in office hours.
+
+Extra credit will be given to people who participate in discussions in discord, both asking and answering!
+
 - [Dov Kruger Courses](#dov-kruger-courses)
   - [About this document](#about-this-document)
   - [General Background](#general-background)
@@ -18,14 +22,12 @@ mistakes you find, you can recommend corrections. Help is appreciated and will b
   - [Common Setup: For all courses, please install the following](#common-setup-for-all-courses-please-install-the-following)
     - [For Using C++ in a Course](#for-using-c-in-a-course)
     - [For Using Java in a Course](#for-using-java-in-a-course)
-    - [Setup Git](#setup-git)
   - [CPE-593 (Applied Data Structures and Algorithms)](#cpe-593-applied-data-structures-and-algorithms)
   - [CPE-553 (C++)](#cpe-553-c)
     - [Using an Online Compiler](#using-an-online-compiler)
     - [IDE Installation](#ide-installation)
       - [CLion](#clion)
       - [Visual Studio](#visual-studio)
-    - [Non-IDE](#non-ide)
   - [EE-552 (Java)](#ee-552-java)
   - [CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
   - [Work](#work)
@@ -80,23 +82,21 @@ There may be files which are incorrect here since this git repo is new. The file
 
 
 ## Common Setup: For all courses, please install the following
-
-  - [Install Microsoft VSCode](#installing-vscode)
+  - [Install Microsoft VSCode](installing_vscode.md)
   - [Install Discord](installing_discord.md)
-  - [Setup Git](#setupgit)
+  - Note: Discord is not supported by IT, and while it is vastly better in most ways than Zoom, if anyone has serious problems, we will use zoom. Just let me know.
+  - [Setup Git](setupgit.md)
 
 
 ### For Using C++ in a Course
 
-  - If you use Windows, install either msys2 or WSL
-    - [Install msys2 and git inside](installing_msys2.md)
+  - If you use Windows [Install msys2 and git inside](installing_msys2.md)
   - If you use Mac OSX, we don't have our own instructions for you
     - [Instructions for installing git](https://www.atlassian.com/git/tutorials/install-git)
     - [Instruction for installing c++ compiler](https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_osx-setup.php)
+    - extra credit available for anyone willing to generate high quality Mac OSX instructions
   
-  
-If you are not installing MSYS2 on windows, you will need to install git on windows
-
+  Note: C++ Code must compile on g++-9 or better using the default. Since Visual Studio has a tendency to inject non-standard code, you are risking your assignments not being accepted. You may test with Visual Studio but must verify the code in g++ before submitting.
 
 ### For Using Java in a Course
 
@@ -104,22 +104,13 @@ People using Java under windows may not need to install msys2, but you will need
 
 Installing Git on windows ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
 
-
-### Setup Git
-
-Git will require you to generate an ssh key in your home directory. Where that is depends on your environment
-(Windows, MSYS2, Mac/Linux)
-
-[Git instructions step by step](https://docs.google.com/document/d/1WOJqA5Vdo9QbeYMGn8pN1B8Uo8-1EnfZAMCAdkDKjFk/edit?usp=sharing)
-If you want to really learn git you can also read the manual, but that's a real book (350 pages).
-[Git manual](https://git-scm.com/docs/user-manual)
-
-You will also need a Github account. Github is a website that offers online hosting of git repositories. All my class examples are hosted on git, and in some cases you will be asked to submit larger homeworks using git. In any case as a programmer, this is something everyone should know. [Link to get an educational GitHub account (free features)](https://education.github.com/)
-
+IDEs for Java include [Intellij](https://www.jetbrains.com/idea/download), [NetBeans](https://netbeans.apache.org/), and Eclipse mentioned in my order of preference.
+If you are taking Java, it is recommended to install all 3 to gain experience and resume buzzwords, for data structures just use whichever Java environment is your favorite.
 
 ## CPE-593 (Applied Data Structures and Algorithms)
 
-**Install either g++ or Java** as described for the corresponding classes below. Your homework must compile either on g++ or Java, and the tools listed below will do that.  
+**Install either g++ or Java** as described in the sections above.
+Your homework must compile either on g++ or Java, and the tools listed above will do that.  
 
 You will need git, described above, in order to get the examples that I build in class each week.
 
@@ -162,16 +153,15 @@ You will see me use some of these tools in class. **If you want to get a job pro
  - The best portable environment I know.  You will have to get a free license updated every year while a student
 #### [Visual Studio](https://visualstudio.microsoft.com/)
  - You may use Visual Studio for your own purposes, but if you do not compile with g++ or clang, your code might be non-standard. If you do not submit code that compiles under g++, you will get a 25% for that assignment.
-### Non-IDE
-
 
 ## EE-552 (Java)
 
 Please install:
 
 - [Processing](http://processing.org).
+
 - [Netbeans](https://netbeans.org/downloads/).
-  - Note: for Netbeans now that Java Developer Kit 11 (JDK11) is the standard, you need to download the special beta version that is 11.1 as of last count. Netbeans 10 is mainstream but that won’t work with JDK11.
+  - Note: for the latest version of Java, generally the current production version of Netbeans does not work. You will have to check and get a beta version depending on your version of java.
 - [optional] [Eclipse](http://www.eclipse.org/)
 - [optional] [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
