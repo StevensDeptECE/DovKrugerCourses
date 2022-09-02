@@ -74,7 +74,7 @@ There may be files which are incorrect here since this git repo is new. The file
 
 [My Course FAQ](FAQ.md)
 
-[Please sign up for my discord server](https://discord.gg/8EDCBeb2)
+[Please sign up for my discord server](https://discord.gg/77RJryjGMW)
 
 [Work study students, and graduate students who need work](#work)
 
