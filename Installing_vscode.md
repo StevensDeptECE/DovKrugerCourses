@@ -3,8 +3,6 @@
 Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class.
 vscode works on Windows, Mac OSX and Linux.
 
-
-
 ## 1.1. Table of Contents
 
 - [Instructions for Installing VS Code](#instructions-for-installing-vs-code)
