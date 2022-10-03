@@ -1,8 +1,11 @@
-# 1. Instructions for Installing VS Code
+# Instructions for Installing VS Code
+
+Microsoft VS Code is a great text editor that will allow you to work on my computer and be “called to the board” in class.
+vscode works on Windows, Mac OSX and Linux.
 
 ## 1.1. Table of Contents
 
-- [1. Instructions for Installing VS Code](#1-instructions-for-installing-vs-code)
+- [Instructions for Installing VS Code](#instructions-for-installing-vs-code)
   - [1.1. Table of Contents](#11-table-of-contents)
   - [1.2. Installing VS Code](#12-installing-vs-code)
 
@@ -38,22 +41,22 @@ Please have your VS Code set up before the first class as follows:
    3. Mac: Same as linux but use [homebrew](https://brew.sh/)
 2. [Install VS Code on your system](https://code.visualstudio.com/download). Leave vscode closed.
 3. Download the following files and run them. For those that are unclear, after clicking on the appropriate link, click the `RAW` button on the following page, then right click --> save as --> ensure the file has the correct name and extension (`.sh` or `.bat`, not `.txt` or `.bat.txt`) --> save. Then double click on it after download to run it.
-   1. [Windows](res/Instructions%20for%20Installing%20VSCode/install_extensions_locally.bat)
-   2. [\*nix/MacOS](res/Instructions%20for%20Installing%20VSCode/install_extensions_locally.sh)
+   1. [Windows](files/vscodeinstructions/install_extensions_locally.bat)
+   2. [\*nix/MacOS](files/vscodeinstructions/install_extensions_locally.sh)
       1. Note for \*nix and MacOS, you will likely need to run `chmod +x install_extensions_locally.sh` before it will let you run the file. Might need `sudo` for that.
       2. MacOS: Run `Shell Command: Install 'code' command in PATH` using `f1` in VS Code before running this script.
 4. Open VS Code
 5. Hit `F1` and type `Preferences: Open Settings (JSON)`, hit enter.
 6. Replace the contents of the file with the following:
-   1. [Windows](res/Instructions%20for%20Installing%20VSCode/settings_WINDOWS.json)
+   1. [Windows](files/vscodeinstructions/settings_WINDOWS.json)
       1. If you didn't install MSYS2 in the default location with the default settings, you will need to modify this file to match your installation location/etc.
-   2. [\*nix](res/Instructions%20for%20Installing%20VSCode/../Instructions%20for%20Installing%20VSCode/settings__NIX.json)
-   3. [MacOS](res/Instructions%20for%20Installing%20VSCode/../Instructions%20for%20Installing%20VSCode/settings_macos.json)
+   2. [\*nix](files/vscodeinstructions/settings__NIX.json)
+   3. [MacOS](files/vscodeinstructions/settings_macos.json)
 7. Hit `F1` and type `Tasks: Open User Tasks`, hit enter.
 8. Replace the contents of the file with the following:
-   1. [Windows](res/Instructions%20for%20Installing%20VSCode/tasks_hardcoded/tasks_WINDOWS.json)
-   2. [\*nix](res/Instructions%20for%20Installing%20VSCode/tasks_hardcoded/tasks_nix.json)
-   3. [MacOS](res/Instructions%20for%20Installing%20VSCode/tasks_hardcoded/tasks_macos.json)
+   1. [Windows](files/vscodeinstructions/tasks_hardcoded/tasks_WINDOWS.json)
+   2. [\*nix](files/vscodeinstructions/tasks_hardcoded/tasks_nix.json)
+   3. [MacOS](files/vscodeinstructions/tasks_hardcoded/tasks_macos.json)
 9. If you are not taking CPE-390, skip steps 10-11.
 10. [Setup your Pi (get Raspbian installed and make sure you can ssh into it from the terminal)](Setting%20Up%20Raspberry%20Pi%20For%20CPE-390.md). Note that if your Pi is not ready to be setup, you may skip steps 10 & 11 and proceed to further steps.
 11. Setup connection between VSCode on your machine and the Pi. Note that if your Pi is not ready to be setup, you may skip this step and proceed to further steps.
@@ -66,13 +69,13 @@ Please have your VS Code set up before the first class as follows:
     5. Select the newly added host. Note that you can change the order in which they appear by reordering the SSH Config file.
     6. Unfortunately, extensions are installed to the host of the vscode server, meaning that you’ll need to install a good number of the extensions again, but this time, on the server. Open the bat/sh file from before and copy paste the IDs one by one into the extension search bar and install on server. Some may not need to be installed on the server as they work from your machine.
 
-    ![1.png](res/vscodeinstructions/1.png)
+    ![1.png](files/vscodeinstructions/1.png)
 
 12. If you are working on large projects or on Grail, you need the following configuration... Go back to step 6 and replace the launch files with the below folder corresponding to your OS. Also repeat step 8 with the correct task file. Essentially what they do is run `make -B` in the root directory, which will trigger a Makefile you create and configure. From there, it will run `a.exe` or `a.out` (depending on your OS) in the debugger. It might be set to stop on entry (i.e. act as if the first line of main has a breakpoint). To avoid debugging, just hit the continue button and it will finish running. The output of your program is not in the debugger, but rather in the terminal tab of the lower-window. You will need to edit these files if not using Windows with the default MSYS2 installation path, or if your executables are not being generated in the root directory as `a.exe` or `a.out` (depending on your OS) (OR IF YOU ARE WORKING ON GRAIL).
 
-    1. [Linux](res/Instructions%20for%20Installing%20VSCode/.vscode_LINUX/)
-    2. [MacOS](res/Instructions%20for%20Installing%20VSCode/.vscode_MACOS/) (credit to [jpaul21](https://github.com/jpaul21)) -- note: not the makefile version... needs to be updated.
-    3. [Windows](res/Instructions%20for%20Installing%20VSCode/.vscode_WINDOWS/)
+    1. [Linux](files/vscodeinstructions/.vscode_LINUX/)
+    2. [MacOS](files/vscodeinstructionse/.vscode_MACOS/) (credit to [jpaul21](https://github.com/jpaul21)) -- note: not the makefile version... needs to be updated.
+    3. [Windows](files/vscodeinstructions/.vscode_WINDOWS/)
 
 13. Some important shortcuts:
     1. `CTRL/CMD + p`: used for searching FOR files (not within). This is mostly useful when you are working in a large project with many files/large folder structure.
@@ -82,6 +85,6 @@ Please have your VS Code set up before the first class as follows:
        2. `code ..` opens the parent folder in VS Code
        3. `code <filename>` opens just the single file in VS Code (note that you can give multiple filenames in the same command, separate with spaces)
     4. If you are on Windows, I recommend getting Windows Terminal from the Windows Store
-       1. Once installed hit `CTRL + ,` to open the settings. Insert the [following](res/Instructions%20for%20Installing%20VSCode/Windows_Terminal_Prefs_FRAGMENT.json) as the last or second-to-last item. Note that if second-to-last, you need to add a comma after the end curly brace…
+       1. Once installed hit `CTRL + ,` to open the settings. Insert the [following](files/vscodeinstructions/Windows_Terminal_Prefs_FRAGMENT.json) as the last or second-to-last item. Note that if second-to-last, you need to add a comma after the end curly brace…
           1. If you didn’t install msys with the default location/names, you will need to update the path to the msys icon, and that to bash.exe. Feel free to edit the font face, size, and color scheme to your preference.
        2. Save the file.
