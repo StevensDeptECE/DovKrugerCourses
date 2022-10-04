@@ -222,6 +222,6 @@ git push
 # Pulling from a Repo
 You must have already cloned the repository.  Cd to the local repository on your computer and run:
 ```bash
-git push
+git pull
 ```
 This should be done often, to reduce collisions when pushing your changes back into GitHub.
