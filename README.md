@@ -35,6 +35,11 @@ Extra credit will be given to people who participate in discussions in discord, 
   - [Volunteers](#volunteers)
   - [Bibliography](#bibliography)
 
+  - [CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
+  - [Work](#work)
+  - [Volunteers](#volunteers)
+  - [Bibliography](#bibliography)
+
   - [For Using Java in a Course](#for-using-java-in-a-course)
     - [IDE Installation](#java-ide-installation)
       - [CLion](#clion)
@@ -61,7 +66,7 @@ There may be files which are incorrect here since this git repo is new. The file
 
 [My Course FAQ](FAQ.md)
 
-[Please sign up for my discord server](https://discord.gg/77RJryjGMW)
+Instructions for [discord](installing_discord.md)
 
 [Work study students, and graduate students who need work](#work)
 
