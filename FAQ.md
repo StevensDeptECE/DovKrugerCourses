@@ -12,7 +12,7 @@ Link to the top level directory [DovKrugerAllCourses](https://drive.google.com/d
 
 [CPE-552 (Java)](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkWDBhRms0eVRFTGs?resourcekey=0-VJO_CrC-I1h300ASvlJsqA&usp=sharing)
 
-Old course [CPE-390,  Microprocessor systems](https://drive.google.com/drive/folders/1BB0dEj9IYmisXunfRFdGb4XWcH4RIJ6s?usp=sharing)
+[CPE-390 (Microprocessor systems)](https://drive.google.com/drive/folders/1BB0dEj9IYmisXunfRFdGb4XWcH4RIJ6s?usp=sharing)
 
 [All my course syllabi](https://drive.google.com/drive/folders/0Bwxfq4Y7f7vkeXRQWk91YVF3MkE?resourcekey=0-PyWvn62RTq4drIitu7KrEg&usp=sharing)
 I do not have course syllabi from 10 years ago, sorry. Current only.
