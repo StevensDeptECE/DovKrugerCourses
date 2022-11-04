@@ -1,11 +1,29 @@
 # Dov Kruger Courses
 
+[Office hours and contact info](http://bit.ly/3n1TA2L): http://bit.ly/3n1TA2L 
+- [EE553 (C++)](https://github.com/stevensdeptece/CPE553-CPP)
+- [CPE390 (Microprocessor Systems)](https://github.com/stevensdeptece/CPE390)
+- [CPE552 (Java)](https://github.com/stevensdeptece/CPE552-Java)
+- [CPE593 (Applied Data Structures and Algorithms)](https://github.com/stevensdeptece/CPE593)
+- [CPE800 (Research Problem)](research.md)
+
+## About Dov Kruger
+
+- [My bio](DovKrugerbio.md)
+- [My research interests](research.md)
+- [Office hours and contact info](http://bit.ly/3n1TA2L)
+
+
+
 ## About this document
 
 Hello and welcome to my shared course resource site
 
 These pages contain general information for each semester about all my courses.
 Just because information is here does not mean it applies to your course.
+
+
+
 
 This document is a work in progress, designed to help you get software tools you need to learn programming.
 In the end, you are responsible to learn how to install tools on your own computer. If you want to help by correcting
