@@ -17,6 +17,8 @@
 
 ## About this document
 
+The links in here are broken, so for now, setup information is in:
+[setup for all courses](https://github.com/StevensDeptECE/CPE390/tree/master/Course%20Documentation)
 Hello and welcome to my shared course resource site
 
 These pages contain general information for each semester about all my courses.
