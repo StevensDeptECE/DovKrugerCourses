@@ -19,7 +19,7 @@ Extra credit will be given to people who participate in discussions in discord, 
   - [About this document](#about-this-document)
   - [General Background](#general-background)
   - [Preparing to Take one of my Courses](#preparing-to-take-one-of-my-courses)
-  - [[Common Instructions for All Courses]](#common-instructions-for-all-courses)
+  - [\[Common Instructions for All Courses\]](#common-instructions-for-all-courses)
   - [Common Setup: For all courses, please install the following](#common-setup-for-all-courses-please-install-the-following)
     - [For Using C++ in a Course](#for-using-c-in-a-course)
     - [For Using Java in a Course](#for-using-java-in-a-course)
@@ -34,23 +34,6 @@ Extra credit will be given to people who participate in discussions in discord, 
   - [Work](#work)
   - [Volunteers](#volunteers)
   - [Bibliography](#bibliography)
-
-  - [CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
-  - [Work](#work)
-  - [Volunteers](#volunteers)
-  - [Bibliography](#bibliography)
-
-  - [For Using Java in a Course](#for-using-java-in-a-course)
-    - [IDE Installation](#java-ide-installation)
-      - [CLion](#clion)
-      - [Visual Studio](#visual-studio)
-
-  - [CPE-593 (Applied Data Structures and Algorithms)](#cpe-593-applied-data-structures-and-algorithms)
-    - Follow the instructions for installing either C++ or Java tools in the appropriate section above
-  - CPE-553 (C++)  see using C++ in a course
-  - EE-552 (Java) see using Java in a course
-  - [OLD CPE-390 (Microprocessor Systems - Computer Architecture)](#cpe-390-microprocessor-systems---computer-architecture)
-  - [Bibliography](bibliography)
 
 ## General Background
 
