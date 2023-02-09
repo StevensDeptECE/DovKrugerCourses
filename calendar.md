@@ -1,5 +1,6 @@
 # Weekly Calendar 2023 Spring
 
+This is an experimental calendar, not yet in use. Please use the first link instead
 [Office hours on discord by default]()
 [Office hours zoom (email me to request)](https://stevens.zoom.us/j/98309917165)
 
@@ -14,7 +15,7 @@
 |15 |     |     |     |     |     |     |     |
 |16 |     |     |     |     |     |     |     |
 |17 |     |     |     |     |     |     |     |
-|18 |     |     |  6:30-21:00 <br/>[CPE-593]()  |     | 6:30-21:00 <br/>[EE-553]()()    |     |     |
+|18 |     |     |  6:30-21:00 <br/>[CPE-593]()  | 6:30-21:00 <br/>[EE-553]()() |     |     |     |
 |19 |     |     |     |     |     |     |     |
 |20 |     |     |     |     |     |     |     |
 |21 |     |     |     |     |     |     |     |
