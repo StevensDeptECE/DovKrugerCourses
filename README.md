@@ -104,6 +104,15 @@ Instructions for [discord](installing_discord.md)
 
 ### For Using Java in a Course
 
+[Download processing](https://processing.org/download)
+Install processing
+[Download Intellij](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows)
+[Get student license for Intellij. This will have to be renewed yearly as long as you are a student](https://www.jetbrains.com/shop/eform/students)
+[Optional: Get and install Netbeans](https://netbeans.apache.org/download/nb16/)
+[Optional: Get and install Eclipse](https://www.eclipse.org/downloads/)
+
+
+
 People using Java under windows may not need to install msys2, but you will need an IDE, the Java compiler, and git.
 
 Installing Git on windows ([Windows Download Link](https://git-scm.com/)) is a version control software. Using git, you can go back and get every version of what you have written. If you host it somewhere else (like github, see below) then if your computer breaks, is lost or stolen, you can retrieve all your work. Git is the most popular version control system today and something every programmer needs to know, which is why I use it in all my courses.
