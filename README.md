@@ -2,9 +2,19 @@
 
 [Office hours and contact info](http://bit.ly/3n1TA2L): http://bit.ly/3n1TA2L 
 - [EE553 (C++)](https://github.com/stevensdeptece/CPE553-CPP)
+   - [Common tools across all courses]()
+   - [Setup C++ environment]()
 - [CPE390 (Microprocessor Systems)](https://github.com/stevensdeptece/CPE390)
+   - [Common tools across all courses]()
+   - [Setup C++ environment]()
 - [CPE552 (Java)](https://github.com/stevensdeptece/CPE552-Java)
+   - [Common tools across all courses]()
+   - [Setup Java tools]()
 - [CPE593 (Applied Data Structures and Algorithms)](https://github.com/stevensdeptece/CPE593)
+   - Setup either C++ or Java Environment depending on which language
+   - [Common tools across all courses]()
+   - [Setup C++ environment]()
+   - [Setup Java tools]()
 - [CPE800 (Research Problem)](research.md)
 
 ## About Dov Kruger
