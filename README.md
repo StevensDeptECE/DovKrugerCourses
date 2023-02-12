@@ -97,7 +97,7 @@ Instructions for [discord](installing_discord.md)
 - [Install Microsoft VSCode](installing_vscode.md)
 - [Install Discord](installing_discord.md)
 - Note: Discord is not supported by IT, and while it is vastly better in most ways than Zoom, if anyone has serious problems, we will use zoom. Just let me know.
-- [Setup Git](setup_git.md)
+- [Git Setup & Guide](git.md)
 
 ### For Using C++ in a Course
 

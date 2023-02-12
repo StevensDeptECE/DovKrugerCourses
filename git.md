@@ -46,9 +46,15 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADBQABAABBgMDthddGEsBhWIY7fsMuFEFFfjZcwnhvrE7R7FMPgXKc
 You then need to copy this text and paste it on github.
 
 1. Log into github.
-1. Click onto your user icon on the top right [TODO: insert picture]
-1. Click on ssh and gpg keys on the left [TODO: insert picture]
-1. Click on new ssh key and paste in the key. If you have multiple computers, make sure the name of the key makes it clear which computer it is so you can keep track.
+2. Click onto your user icon on the top right, then go to Settings.
+    ![pic](res/git_setup/6.png)
+
+3. Click on ssh and gpg keys on the left.
+    ![pic](res/git_setup/7.png)
+
+4. Click on new ssh key and paste in the key. If you have multiple computers, make sure the name of the key makes it clear which computer it is so you can keep track.
+  ![pic](res/git_setup/8.png)
+
 You will use git to pull any changes I make to course examples, and also to work together in groups.
 
 Git will require you to generate an ssh key in your home directory. Where that is depends on your environment
@@ -190,3 +196,32 @@ git log --author="<authorname>" --oneline --shortstat
 
 If you want to really learn git you can also read the manual, but that's a real book (350 pages).
 [Git manual](https://git-scm.com/docs/user-manual)
+
+# Cloning a Repo
+1. Go and grab the web url of the repository you would like to clone
+
+2. In the terminal:
+```bash
+git clone <url>
+```
+
+# Updating a Repo
+1. cd to your repository, and excecute the follwing:
+```bash
+git add .
+```
+2. You can also run git status to see changes that you have made to files.  Then commit to repository and describe the changes you made in the required message field.
+```bash
+git commit -m "message"
+```
+3. Finally, push to the repository:
+```bash
+git push
+```
+
+# Pulling from a Repo
+You must have already cloned the repository.  Cd to the local repository on your computer and run:
+```bash
+git pull
+```
+This should be done often, to reduce collisions when pushing your changes back into GitHub.
