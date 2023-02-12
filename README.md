@@ -17,6 +17,13 @@
    - [Setup Java tools]()
 - [CPE800 (Research Problem)](research.md)
 
+
+original git instructions:
+https://docs.google.com/document/d/1WOJqA5Vdo9QbeYMGn8pN1B8Uo8-1EnfZAMCAdkDKjFk/edit
+
+
+
+
 ## About Dov Kruger
 
 - [My bio](DovKrugerbio.md)
@@ -104,12 +111,12 @@ Instructions for [discord](installing_discord.md)
 
 ### For Using Java in a Course
 
-[Download processing](https://processing.org/download)
-Install processing
-[Download Intellij](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows)
-[Get student license for Intellij. This will have to be renewed yearly as long as you are a student](https://www.jetbrains.com/shop/eform/students)
-[Optional: Get and install Netbeans](https://netbeans.apache.org/download/nb16/)
-[Optional: Get and install Eclipse](https://www.eclipse.org/downloads/)
+- [Download processing](https://processing.org/download)
+- Install processing
+- [Download Intellij](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows)
+- [Get student license for Intellij. This will have to be renewed yearly as long as you are a student](https://www.jetbrains.com/shop/eform/students)
+- [Optional: Get and install Netbeans](https://netbeans.apache.org/download/nb16/)
+- [Optional: Get and install Eclipse](https://www.eclipse.org/downloads/)
 
 
 
