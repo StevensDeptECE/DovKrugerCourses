@@ -18,6 +18,6 @@ Please fully follow the instructions found in each link to properly prepare for 
 
 - ### [CPE390](CPE390/readme.md)
 
-## [&larr; Return once done](../readme.md)
+## [&larr; Return once done](../README.md)
 
 [^note]: Discord is not supported by IT, and while it is vastly better in most ways than Zoom, we will use zoom if anyone has serious problems. Just let me know.
