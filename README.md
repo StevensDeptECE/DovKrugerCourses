@@ -46,11 +46,12 @@ If you have difficulty installing the tools for your course, or if a page is bro
 Extra credit will be given to people who participate in discussions in discord, both asking and answering!
 
 - [Dov Kruger Courses](#dov-kruger-courses)
+  - [About Dov Kruger](#about-dov-kruger)
   - [About this document](#about-this-document)
   - [General Background](#general-background)
   - [Preparing to Take one of my Courses](#preparing-to-take-one-of-my-courses)
   - [\[Common Instructions for All Courses\]](#common-instructions-for-all-courses)
-  - [Common Setup: For all courses, please install the following](#common-setup-for-all-courses-please-install-the-following)
+  - [Before the first day - Setup](#before-the-first-day---setup)
     - [For Using C++ in a Course](#for-using-c-in-a-course)
     - [For Using Java in a Course](#for-using-java-in-a-course)
   - [CPE-593 (Applied Data Structures and Algorithms)](#cpe-593-applied-data-structures-and-algorithms)
@@ -85,12 +86,9 @@ Instructions for [discord](installing_discord.md)
 
 [Volunteers](#volunteers)
 
-## Common Setup: For all courses, please install the following
+## Before the first day - Setup
 
-- [Install Microsoft VSCode](installing_vscode.md)
-- [Install Discord](installing_discord.md)
-- Note: Discord is not supported by IT, and while it is vastly better in most ways than Zoom, if anyone has serious problems, we will use zoom. Just let me know.
-- [Setup Git](setup_git.md)
+[Shared Setup Instructions](setup/readme.md)
 
 ### For Using C++ in a Course
 
