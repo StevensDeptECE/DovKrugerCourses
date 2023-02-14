@@ -10,4 +10,4 @@ If Discord does not work for the class, we will switch to zoom. So far it's been
   - A place where you can go to ask for help and get instant feedback from TAs and peers.
   - A standard way to share files that is better than canvas.
 
-## [&larr; Return once done](../readme.md)
+## [&larr; Return to Setup](../readme.md)

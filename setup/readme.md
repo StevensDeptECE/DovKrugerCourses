@@ -14,10 +14,21 @@ Please fully follow the instructions found in each link to properly prepare for 
 
 > Git is an indispensable tool for any type of work that involves a computer and files, programming being no exception.
 
+Once you've followed all the instructions above, move on to your class.
+___
+
 ## &darr; Class specific Setup
 
-- ### [CPE390](CPE390/readme.md)
+- ### &rarr; [CPE390](CPE390/readme.md)
 
-## [&larr; Return once done](../README.md)
+- ### &rarr; [CPE593](CPE593/readme.md)
+
+- ### &rarr; [CPE553](CPE553/readme.md)
+
+- ### &rarr; [CPE800](CPE800/readme.md)
+
+- ### &rarr; [EE552](EE552/readme.md)
+
+## [&larr; Return and Finish](../README.md)
 
 [^note]: Discord is not supported by IT, and while it is vastly better in most ways than Zoom, we will use zoom if anyone has serious problems. Just let me know.

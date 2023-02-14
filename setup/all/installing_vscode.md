@@ -5,7 +5,9 @@ Microsoft VS Code is a great text editor that will allow you to work on my compu
 - [Windows](#windows)
 - [Linux](#linux)
 - [Mac](#mac)
-- [← Return once done](#-return-once-done)
+- [Setting up PI](#setting-up-your-pi)
+
+### [← Return once done](../readme.md)
 
 ## Windows
 
@@ -66,7 +68,7 @@ Microsoft VS Code is a great text editor that will allow you to work on my compu
        3. `code <filename>` opens just the single file in VS Code (note that you can give multiple filenames in the same command, separate with spaces)
 9. VSCode is Done!
 
-[&larr; Return to Setup](../readme.md)
+[&uarr; Back to Top](#installing-vs-code)
 
 ___
 
@@ -110,7 +112,7 @@ ___
        3. `code <filename>` opens just the single file in VS Code (note that you can give multiple filenames in the same command, separate with spaces)
 9. VSCode is Done!
 
-[&larr; Return to Setup](../readme.md)
+[&uarr; Back to Top](#installing-vs-code)
 
 ___
 
@@ -118,7 +120,7 @@ ___
 
 ### Before Installing (Mac)
 
-1. Same as linux but use [homebrew](https://brew.sh/)
+1. Same as [&uarr; linux](#linux) but use [homebrew](https://brew.sh/)
 
 ### After Setup (Mac)
 
@@ -143,7 +145,7 @@ ___
        3. `code <filename>` opens just the single file in VS Code (note that you can give multiple filenames in the same command, separate with spaces)
 9. VSCode is Done!
 
-[&larr; Return to Setup](../readme.md)
+[&uarr; Back to Top](#installing-vs-code)
 
 ___
 
@@ -160,7 +162,7 @@ ___
     5. Select the newly added host. Note that you can change the order in which they appear by reordering the SSH Config file.
     6. Unfortunately, extensions are installed to the host of the vscode server, meaning that you’ll need to install a good number of the extensions again, but this time, on the server. Open the bat/sh file from before and copy paste the IDs one by one into the extension search bar and install on server. Some may not need to be installed on the server as they work from your machine.
 
-    ![1.png](files/vscodeinstructions/1.png)
+    ![1.png](../../files/vscodeinstructions/1.png)
 
 3. If you are working on large projects or on Grail, you need the following configuration... Go back to step 6 and replace the launch files with the below folder corresponding to your OS. Also repeat step 8 with the correct task file. Essentially what they do is run `make -B` in the root directory, which will trigger a Makefile you create and configure. From there, it will run `a.exe` or `a.out` (depending on your OS) in the debugger. It might be set to stop on entry (i.e. act as if the first line of main has a breakpoint). To avoid debugging, just hit the continue button and it will finish running. The output of your program is not in the debugger, but rather in the terminal tab of the lower-window. You will need to edit these files if not using Windows with the default MSYS2 installation path, or if your executables are not being generated in the root directory as `a.exe` or `a.out` (depending on your OS) (OR IF YOU ARE WORKING ON GRAIL).
 
