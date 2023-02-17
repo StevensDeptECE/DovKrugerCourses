@@ -8,7 +8,7 @@ If you are preparing to take one of the courses I teach, then I applaud you for 
 
 [My Course FAQ](FAQ.md)
 
-### &rarr; [Getting started (all courses **MUST READ**)](setup/readme.md)
+### &rarr; [Getting started (all courses ***MUST READ***)](setup/readme.md)
 
 ### &darr; Specific Setups
 
@@ -32,8 +32,8 @@ ___
 
 ![Dov Kruger in the flesh](images/mixed/DovKruger2022-12banner.png)
 
-- &rarr; [About me](DovKrugerbio.md)
-- &rarr; [My research interests](research.md)
+- &rarr; [About me](other/DovKrugerbio.md)
+- &rarr; [My research interests](other/research.md)
 
 ## About this repository
 
@@ -81,7 +81,7 @@ For C++, there is a free textbook, but if you want to buy one I recommend Lippma
 
 > <http://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113>
 
-For Java, there is a free textbook, but if you want to buy one I recommend R. Daniel Liang 
+For Java, there is a free textbook, but if you want to buy one I recommend R. Daniel Liang
 > <http://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312>
 
 For Data structures, the textbook is Cormen, Leiserson, Rivest and Stein:

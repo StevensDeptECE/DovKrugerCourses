@@ -13,7 +13,7 @@ Microsoft VS Code is a great text editor that will allow you to work on my compu
 
 ### Before Installing (Windows)
 
-1. Make sure you have MSYS2 and [Git](GIT101.md) installed.
+1. Make sure you have [MSYS2](https://www.msys2.org/) and [Git](GIT101.md) installed.
 2. Run the following in *`MSYS2 MINGW64`*
 
    ```bash

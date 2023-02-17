@@ -6,15 +6,16 @@ Please fully follow the instructions found in each link to properly prepare for 
 
 > Discord is our main method of communication, and allows for easy collaboration. Use it![^note]
 
-## &rarr; [Download VSCode](all/installing_vscode.md)
-
-> Visual Studio Code is a very powerful and simple to use IDE. We recommend it to most students and for most applications.
-
 ## &rarr; [Download Git](all/GIT101.md)
 
 > Git is an indispensable tool for any type of work that involves a computer and files, programming being no exception.
 
-Once you've followed all the instructions above, move on to your class.
+## &rarr; [Download VSCode](all/installing_vscode.md)
+
+> Visual Studio Code is a very powerful and simple to use IDE. We recommend it to most students and for most applications.
+
+### Once you've followed all the instructions above, move on to your class
+
 ___
 
 ## &darr; Class specific Setup

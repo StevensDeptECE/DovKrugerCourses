@@ -1,9 +1,11 @@
 # Resources for help
 
 This document contains information on the following:
- - [Help available](## HELP AVAILABLE) 
- - [Policy on learning accommodations](## LEARNING ACCOMODATIONS)
- - [Inclusivity](## INCLUSIVITY)
+
+- [Help available](#help-available)
+- [Policy on learning accommodations](#learning-accomodations)
+- [Inclusivity](#inclusivity)
+
 ## HELP AVAILABLE
 
 If you have questions about any material in this course, you may contact the TA, or me.
@@ -37,7 +39,7 @@ legality, please contact Phillip Gehman, the Director of Disability
 Services Coordinator at Stevens Institute of Technology at
 pgehman@stevens.edu or by phone (201) 216-3748.
 
-## INCLUSIVITY 
+## INCLUSIVITY
 
 ### Name and Pronoun Usage
 
@@ -52,7 +54,9 @@ You are expected to treat your instructor and all other participants in the cour
 ## MENTAL HEALTH RESOURCES
 
 Part of being successful in the classroom involves a focus on your whole self, including your mental health.  While you are at Stevens, there are many resources to promote and support mental health.  The Office of Counseling and Psychological Services (CAPS) offers free and confidential services to all enrolled students who are struggling to cope with personal issues (e.g., difficulty adjusting to college or trouble managing stress) or psychological difficulties (e.g., anxiety and depression).  Appointments are strongly encouraged and can be made by phone (201-216-5177) or in-person (on the 7th floor of the Howe Center). CAPS is open from 9:00 am – 5:00 pm Mondays, Wednesdays, Thursdays and Fridays and from 9:00 am – 7:00 pm on Tuesdays during the Fall and Spring semesters.
- 
+
 ## EMERGENCY INFORMATION
 
 In the event of an urgent or emergent concern about the safety of yourself or someone else in the Stevens community, please immediately call the Stevens Campus Police at 201-216-5105 or on their emergency line at 201-216-3911.  These phone lines are staffed 24/7, year round.  Other 24/7 resources for students dealing with mental health crises include the National Suicide Prevention Lifeline (1-800-273-8255) and the Crisis Text Line (text “Home” to 741-741). If you are concerned about the wellbeing of another Stevens student, and the matter is not urgent or time sensitive, please email the CARE Team at care@stevens.edu. A member of the CARE Team will respond to your concern as soon as possible.  
+
+## [&larr; Return and Finish](README.md)
