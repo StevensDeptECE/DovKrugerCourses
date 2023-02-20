@@ -22,6 +22,7 @@ Microsoft VS Code is a great text editor that will allow you to work on my compu
 
 3. Edit your environment variables.
    1. Open the windows start menu and search for *`environment variables`*
+ 
    ![Edit the system environment variables](https://i.imgur.com/sAlxhRt.png)
 
    2. Open the environment variables.
