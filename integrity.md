@@ -9,10 +9,10 @@ My standard policy is that any cheating detected results in a zero for the entir
 - It is acceptable to get help, even line by line on homework, but
    * You must understand what you wrote by the end
    * If there is any doubt of your work, you will be asked to explain what you did. You must know the gist of it.
-   * Your name must be on as author
-   * You must cite any help you got, including websites, person helping you.
+   * Every program submitted must contain a comment listing you as author. If you worked together, you may name multiple parties as author
+   * Every program or other homework must cite any help you got, including websites, the names of people helping you, and how they helped.
    * Code must never be copied from anywhere. If you give your homework or lab to someone, and they copy it, both of you are guilty of cheating.
-     You can't claim that you didn't know that they would copy it. You should never have made it available.
+     You can't claim that you didn't know that they would copy it. *You should never have made it available*.
    * Putting your code out on a public repository is equivalent to giving it to everyone.
 ### Learning for Mastery
 
