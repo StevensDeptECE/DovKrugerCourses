@@ -4,6 +4,16 @@
 
 My standard policy is that any cheating detected results in a zero for the entire assignment. In the case of a major test, this may mean that cheating makes it mathematically impossible to pass the class.
 
+- All homework, labs, projects must be typed by you and may not be copied.
+- For group homework, all people must contribute. It is cheating to take credit for code which you had no hand in creating.
+- It is acceptable to get help, even line by line on homework, but
+   * You must understand what you wrote by the end
+   * If there is any doubt of your work, you will be asked to explain what you did. You must know the gist of it.
+   * Your name must be on as author
+   * You must cite any help you got, including websites, person helping you.
+   * Code must never be copied from anywhere. If you give your homework or lab to someone, and they copy it, both of you are guilty of cheating.
+     You can't claim that you didn't know that they would copy it. You should never have made it available.
+   * Putting your code out on a public repository is equivalent to giving it to everyone.
 ### Learning for Mastery
 
 All students are expected to try to master the material. In an attempt to reduce stress and increase learning, retests are available.
