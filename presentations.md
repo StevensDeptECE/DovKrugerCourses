@@ -70,8 +70,28 @@ This quick reference contains
       * Putting hands in pockets
       * Practice stilling your body so the audience can focus on your words.
     * Remember, most of us cannot eliminate all our ticks, but by preparation and trying, you can improve.
-  * 
 
+* Final paper
+  * Find out the template, what format it is supposed to be in. The final report, if due as an article may have rigorous
+    * Do not pad your paper with code or huge tables of data. This can go in an appendix, but should not be directly in the paper.
+    * Create a git repository with all files and supporting material
+    * Create a folder with scalable vector graphics, not bitmaps so everything can be included in documents and sized
+  * Identify the parts of the paper and what should be in them. Typical sections:
+    * Abstract
+    * Keywords
+    * Introduction
+    * Results
+    * Conclusions  
+    * Bibliography
+  * Research
+    * Determine keywords relevant to your search
+    * Try to find the original works that are the most important (often, most cited)
+    * Try to find survey papers that are often much simpler, better written, summaries of all the work done.
+    * Get help from a librarian once you have some search terms to try to improve your search
+  * Identify key topics in the problem
+    * Draw diagrams making the issues clear and/or find good diagrams that can be used (cite all diagrams used)
+    * 
+  
 ## Cognitive Tricks
 * When dealing with a complex abstract concept
   * State the concept
